@@ -2,7 +2,6 @@ package main
 
 import (
 	"product/httpd/handler"
-	"product/httpd/methods"
 
 	"github.com/gin-gonic/gin"
 )
